@@ -1,0 +1,38 @@
+.crap1{
+	width: 700px;
+	text-align: center;
+	background-color: lightgray;
+	margin: 0 auto;
+}
+.crap2{
+	background-color: darkgreen;
+	color: white;
+	padding: 10px 10px;
+}
+.crap3{
+	background-color: darkgreen;
+	padding: 20px;
+}
+.crap4{
+	text-align:center;
+}
+.crap5{
+	color:white;
+	text-decoration: none;
+	padding: 80px;
+}
+.crap6{
+	margin: 10px;
+}
+.crap7{
+	text-align:left;
+	padding: 20px;
+}
+.crap8{
+	text-align:left;
+	padding: 20px;
+	background-color: orange;
+}
+.crap9{
+	padding: 10px;
+}
